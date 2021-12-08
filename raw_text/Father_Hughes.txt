@@ -1,0 +1,43 @@
+{{Infobox Character
+|title1=Father Hughes
+|image1=Fatherhughes.jpg
+|caption1=
+|born=c. 1870s, Ireland
+|died=1924, Birmingham, England
+|origin=
+|allegiance=[[The Economic League]]
+|status=[[:Category:Status: Deceased|Deceased]]
+|service=
+|years_of_service=
+|unit=
+|battles/wars=
+|parents=
+|spouse=
+|children=
+|siblings=
+|series=[[Series 3|3]]
+|first_seen=[[Episode 3.2]]
+|last_seen=[[Episode 3.6]]
+|appeared_in=4 episodes
+|portrayed_by=[[Paddy Considine]]
+}}'''Father John Hughes''' was a major character and the main antagonist of Series 3 of Peaky Blinders. He was a member and representative of [[The Economic League]], working with [[Patrick Jarvis]].
+
+==Character History==
+=== Series 3 · 1924 ===
+Thomas came to suspect that Father Hughes was a double agent, seemingly working for the British Crown and with the politically White Russians but reporting to the Communist Russians. This was only partially true; Hughes does represent the Crown and was acting under orders to report to the Reds because they wanted to provoke an attack on British soil, that would break diplomatic relations with the [[Communists]].
+
+It was insinuated that he was a child molester and [[Michael Gray]] was a victim of Hughes from when he was first taken in, which was why Michael himself insisted that he be the one to end Hughes's life.
+
+==Relationships==
+===Thomas Shelby===
+While [[Thomas Shelby]] barely had any respect for the man, he was forced to work for him in order to protect his family and friends. Following the abduction of Tommy's [[Charles Shelby|son]], Hughes was confronted and killed by Michael Gray.
+
+== Appearances ==
+{{Series Three Appearances|no|yes|yes|yes|no|yes}}
+== Image Gallery ==
+[[Category:Characters]]
+[[Category:Series 3 Characters]]
+[[Category:Status: Deceased]]
+[[Category:Enemies]]
+[[Category:Members of Section D]]
+[[Category:Secondary Characters]]

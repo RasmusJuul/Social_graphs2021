@@ -1,0 +1,31 @@
+{{Infobox_characters
+|Title = Harry Fenton
+|Image =Harry-fenton.jpg
+|Series = [[Series 1]]
+|First = [[Episode 1.1]]
+|Last = [[Episode 1.6]]
+|Appearances = 5 episodes
+|Titles = Landlord of The Garrison Pub <small>(Formerly)</small>
+|Aka = Barman
+|Status = [[:Category:Status: Alive|Alive]]
+|Place = Birmingham, England
+|Allegiance = [[Peaky Blinders]]
+|Actor = [[Neil Bell]]
+}}'''Harry Fenton''' was a recurring character and the former landlord/owner of [[the Garrison]]. He was the landlord prior to [[Thomas Shelby]] and the [[Peaky Blinders]] purchasing the pub. Following this, he was replaced by Arthur, but remained a bartender at the pub. 
+==Character Biography==
+===Series 1 · 1919===
+Harry's involvement in Series 1 is somewhat minimal but influential. After witnessing [[Grace Burgess]]' singing, he agrees to hire her as a bartender at [[the Garrison]], his pub. After the Garrison becomes a popular hotspot for the [[Peaky Blinders]], Thomas Shelby purchases the pub from him, compensating him well. While he is not happy about the purchase, he understands that he does not have a choice, given the wealth and influence of the Peaky Blinders. He remains a bartender at the Garrison, covering Peaky business wherever possible. 
+
+== Quotes  ==
+:''"You're bad men, but you're our bad men."''
+----
+
+==Appearances==
+{{Series One Appearances|yes|yes|yes|no|yes|yes}}
+== Image Gallery ==
+[[Category:Series 1 Characters]]
+[[Category:Series 2 Characters]]
+[[Category:Status: Alive]]
+[[Category:Allies]]
+[[Category:Characters]]
+[[Category:Secondary Characters]]

@@ -1,0 +1,62 @@
+{{Infobox characters
+| Title=Winston Churchill
+| Image=File:Churchill5.jpg
+| Series=[[Series 1|1]], [[Series 2|2]], [[Series 5|5]]
+| First=''[[Episode 1.1]]''
+| Last=[[Episode 5.6]]
+| Appearances=7 episodes
+| Mentioned=
+| Titles=
+| Aka=
+| Age=50 (born 30 November 1874)
+| Status=
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=The King of England<br> 
+British Government
+| Father=Lord Randolph Churchill
+| Mother=Jennie Jerome
+| Spouse=Clementine Hozier (m. 1908)
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Andy Nyman]] (Series 1)<br>
+[[Richard McCabe]] (Series 2)<br>
+Neil Maskell (Series 5)
+}}'''Winston Churchill''' was the Secretary of State for the Colonies between 1921 and 1922.
+
+==Character History==
+=== Series 1 · 1919===
+He is first seen on a Pullman carriage at a train station, the carriage which has been turned into a luxurious office. He hires Inspector Campbell to retrieve his stolen machine guns, a man who he finds amusing but a good candidate for the job. Campbell manages to retrieve the stolen guns, and the Peaky Blinders get away for a short time, but Campbell assures Churchill that the Peaky Blinders will be punished for their actions.
+
+=== Series 2 · 1922===
+Churchill allows [[Chester Campbell|Inspector Campbell]] to select a man to carry out an assassination for the Crown, and Campbell selects [[Thomas Shelby]]. Though he is aware of the Inspector's hatred for Thomas, he allows him the selection. Campbell assures Churchill that once Thomas has assassinated '''Field Marshal Henry Russell''', that Thomas will be hanged for keeping stolen weapons from the Crown. In exchange for carrying out this assassination, Churchill grants Thomas a number of his requests (which are amusing to Churchill):  He asked that the Colonial Office grant him an Empire export license, covering India, Malay Peninsula, Canada and Russia. Churchill provides him with this temporarily while he does his service for the Crown.
+
+Upon hearing the news of Inspector Campbell's plans to assassinate Thomas Shelby by using members of the Red Right Hand, Churchill uses his connections to save the life of the Peaky Blinder, and sends him a message that he has another job for Thomas to carry out on behalf of the crown.
+
+=== Series 3 · 1924===
+It is revealed that two years after the death of [[Inspector Campbell]], Churchill is still making deals with [[Thomas Shelby]] that benefit the both of them: Churchill continues to get Thomas to carry out assassinations on behalf of the Crown in exchange for very large sums of money, which help expand the profits of the Shelby family business.
+
+=== Series 5 · 1929===
+Churchill is not involved much in 1929, but does hear of Tommy's friendship with Mosley. Churchill admits that he heard of the friendship and investigated, eventually finding that Tommy was spying on Mosley for the British Government. Churchill has no involvement, but tells Tommy to do whatever it takes to take Mosley down and to contact him if he needs help. 
+== Relationships ==
+===Thomas Shelby===
+The relationship between Churchill and Thomas is a complicated and ominous one. Initially, Churchill is behind [[Inspector Campbell]]'s orders to have Thomas kill people for the crown. He grants Thomas temporary export licenses, with the intention to revoke them after his efforts. However, the relationship does become quite complex, when Campbell hires the [[Ulster Volunteer Force]] to kill Tommy. Churchill orders one of the members to save Thomas, requesting that one day Thomas fulfil a favour for him in the near future.
+== Quotes ==
+:'''Winston Churchill''' (to '''[[Inspector Campbell]]'''): ''“This is England, not Belfast. Bodies thrown in the rivers wash up in the papers here. We must keep the existence of these stolen guns out of the news, otherwise we are simply advertising them for sale. If there are bodies to be buried, dig holes. And dig them deep.”''
+
+==Appearances==
+{{Series One Appearances|yes|yes|no|no|no|yes}}
+{{Series Two Appearances|yes|yes|no|no|no|no}}
+{{Series Five Appearances|no|no|no|yes|no|yes}}
+== Image Gallery ==
+[[Category:Enemies]]
+[[Category:Allies]]
+[[Category:Status: Alive]]
+[[Category:Series 1 Characters]]
+[[Category:Characters]]
+[[Category:Law Enforcement]]
+[[Category:Secondary Characters]]
+[[Category:Series 2 Characters]]
+[[Category:Real Life Characters]]

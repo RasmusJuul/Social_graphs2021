@@ -1,0 +1,44 @@
+{{Infobox characters
+| Title=Roberts
+| Image=Roberts.jpg
+| Series=[[Series 1|1]]
+| First=[[Episode 1.2]]
+| Last=[[Episode 1.4]]
+| Appearances=3 episodes
+| Mentioned=
+| Titles=Assistant
+| Aka=
+| Age=
+| Status=[[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=[[Billy Kimber]]
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[David Dawson]]
+}}
+
+'''Roberts''' is the accountant of [[Billy Kimber]].
+
+==Character History ==
+
+==Citations==
+
+== Image Gallery ==
+<gallery>
+Roberts1.png
+File:BillyKimberPeaky1.png| Billy Kimber and his assistant [[Roberts]] meeting with the Peaky Blinders Gang in [[Episode 1.2]].
+</gallery>
+
+
+[[Category:Series 1 Characters]]
+[[Category:Status: Alive]]
+[[Category:Secondary Characters]]
+[[Category:Enemies]]
+[[Category:Characters]]
+[[Category:Male]]

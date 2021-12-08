@@ -1,0 +1,41 @@
+{{Infobox characters
+| Title=Niall Devlin
+| Image=Niall Devlin.png
+| Series=[[Series 4|4]]
+| First=[[Episode 4.2]]
+| Last=[[Episode 4.6]]
+| Appearances=4 episodes ([[Episode 4.2|4.2]], [[Episode 4.3|4.3]], [[Episode 4.4|4.4]], [[Episode 4.6|4.6]])
+| Mentioned=
+| Titles=
+| Aka=
+| Age=
+| Status=[[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=[[Thomas Shelby]]
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Graeme Hawley]]
+}}
+
+'''Niall Devlin''' is a working man in [[Shelby Company Limited|Shelby company limited]]  working for [[Thomas Shelby]].
+
+==Quotes==
+<blockquote>''"Mr Shelby, may I tell you something? You have a lot of enemies."'' -- '''Niall Devlin to Thomas Shelby'''</blockquote>
+<blockquote>''"Before you, I was an ordinary working man."'' -- '''Niall Devlin to Thomas Shelby'''</blockquote>
+
+== Image Gallery ==
+<gallery navigation="true">
+</gallery>
+
+[[Category:Characters]]
+[[Category:Series 4 Characters]]
+[[Category:Status: Alive]]
+[[Category:Secondary Characters]]
+[[Category:Allies]]
+[[Category:Shelby Company Limited]]

@@ -1,0 +1,49 @@
+{{Infobox Character
+|title1 = Oswald Mosley
+|image1 = File:Sam-claflin-oswald.jpg
+|born = 16 November 1896<br>Mayfair, Westminster, London, England
+|died = 
+|origin = London, England
+|allegiance = Conservative Party <small>(1918–1922)</small><br />
+Independent <small>(1922–1924; 1940–1948)</small><br />
+Labour Party <small>(1924–1931)</small><br />
+New Party <small>(1931–1932)</small><br />
+British Union of Fascists <small>(1932- present)</small>
+|service = British Army
+|years_of_service = 1914-1918
+|series = [[Series 5|5]]
+|first_seen = ''[[Black Tuesday]]''
+|appeared_in = 6 episodes
+|portrayed_by = [[Sam Claflin]]
+}}'''Sir Oswald Mosley''' is the Minister of the Duchy of Lancaster, the deputy to the Chancellor of the Exchequer and the Cabinet adviser to the Prime Minister of Great Britain. He is also the MP for Smethwick, the constituency bordering South Birmingham, [[Thomas Shelby]]'s constituency. Serving as the main antagonist of Season 5, he is described as the devil and is closely under the supervision of the Peaky Blinders.
+
+== Character History ==
+===History===
+Little is known about Mosley’s history, other than over the last year prior to 1929, he met with many men in the UK who he thought could help him with his strategy; one of these men was Jimmy McCaven.
+=== Series 5 · 1929 ===
+Mosley first introduces himself to Tommy after he gives a speech in parliament, citing that he has done research on Tommy and is surprised to see someone with his history in a position of political power.
+
+Meeting with Ada and Tommy, Ada warns that she believes Mosley to be moving towards fascism, admitting that she advised Tommy not to meet with him. Mosley admits that the reason for his approaching Tommy is that he needs help with business in London, however Tommy declines, remarking that Birmingham is his constituency.
+
+Mosley's past begins to be known when he meets with Arthur, Michael and Tommy in Westminster. Tommy questions Mosley's previous meetings with men to rally support for his cause, including [[Jimmy McCavern]], however Mosley denies knowing anyone by that name. He does push Arthur's patience by revealing that Linda — Arthur's wife — has been seen with other men. However Arthur is persuaded to let it go.
+
+Furthermore, when Tommy holds a party at his house for Lizzie, Mosley admits that he once knew Lizzie back in their youth when she would trade sex for money — something she stopped doing when she married Tommy. This is something that jitters Tommy, causing him to retaliate by making Mosley aware that he knows he is serially sleeping with members of his own family. At the party, Tommy makes it clear that if Mosley touches Lizzie, he is fair game for Johnny Dogs. Mosley takes the party as an opportunity to rally support for his new political party: ''the British Union of Fascists.''
+
+Mosley's actions soon become known to [[Winston Churchill]] who meets with Tommy to ask the situation. Tommy explains the situation, and Churchill tells him to do whatever possible to stop the revolution and to contact him if he should need help. Unknown to Mosley, Churchill is referring to the assassination plot that Tommy has been forming, with Mosley as the target. Tommy recruits his former friend Barney to do the killing, which is planned to happen on the night of Mosley's speech — when Tommy is also on the stage — to keep the suspicion that the [[Peaky Blinders]] are involved at bay. Unfortunately, the assassination does not go as planned, and Mosley is able to escape alive.
+
+== Appearances ==
+{{Series Five Appearances|yes|yes|yes|yes|yes|yes}}
+== Quotes ==
+:''"Welcome, men and women of Birmingham. Thank you for coming here on this cold, dark night, in spite of the obstruction and provocation of our enemies. Our enemies deal in bricks and stones and bottles. We deal in reasoned principle, argument and fact. Among those enemies, we can number Mr Winston Churchill, who last night condemned me in the House as a threat to democracy. But then Mr Churchill has never been a friend of the common people. Faced with the alternative of saying goodbye to the gold standard, and therefore to his own employment, he characteristically selected the latter, but of course not all attending tonight will be convinced of our cause. Some will have come here tonight to find out for themselves what we stand for."''
+----
+:''"I am going to fuck the swan, tonight."''
+== Gallery ==
+<gallery hideaddbutton="true">
+5x03 Strategy.jpg
+Mosley_meeting_with_Ada_and_Tommy.jpg
+</gallery>
+[[Category:Characters]]
+[[Category:Series 5 Characters]]
+[[Category:Secondary Characters]]
+[[Category:Real Life Characters]]
+[[Category:Status: Alive]]

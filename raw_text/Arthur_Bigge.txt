@@ -1,0 +1,33 @@
+{{Infobox characters
+| Title=Arthur Bigge
+| Image=Arthur Bigge.png
+| Series=[[Series 4|4]]
+| First=[[Episode 4.1]]
+| Last=[[Episode 4.6]]
+| Appearances=2 episodes ([[Episode 4.1|4.1]], [[Episode 4.6|4.6]])
+| Mentioned=
+| Titles=
+| Aka=
+| Age=
+| Status=[[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=[[Winston Churchill]]
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Donald Sumpter]]
+}}
+
+'''Arthur Bigge, 1st Baron Stamfordham''' is the King’s Private Secretary who deals with the case of the Shelbys and Grays'execution.
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Series 4 Characters]]
+[[Category:Law Enforcement]]
+[[Category:Status: Alive]]
+[[Category:Allies]]
+[[Category:Real Life Characters]]

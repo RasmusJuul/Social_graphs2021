@@ -1,0 +1,58 @@
+{{Infobox characters
+| Title=Anton Kaledin
+| Image=Anton Kaledin.jpg
+| Series=[[Series 3|3]]
+| First=[[Episode 3.1]]
+| Last=[[Episode 3.1]]
+| Appearances= 1 episode
+| Mentioned= 
+| Titles=
+| Aka=
+| Age=
+| Status= [[:Category:Status: Deceased|Deceased]]
+| Death=Shot by [[Arthur Shelby Jr.]]
+| DeathEp=[[Episode 3.1]]
+| Place=
+| Allegiance=Soviet Union
+| Father= 
+| Mother=
+| Spouse= 
+| Relationship= 
+| Children= 
+| Siblings=
+| Cousins=
+| Lovers= 
+| Actor=[[Richard Brake]]
+}}
+'''Anton Kaledin''' was a Russian refugee who attempted to discuss business with [[Darby Sabini|Sabini]] and [[Thomas Shelby]] on Thomas's wedding day. For his attempts to negotiate business, he was killed by [[Arthur Shelby]] Jr.
+==Character History==
+=== Series 3 · 1924 ===
+He informs Thomas that he and the [[Peaky Blinders]] gang have many enemies who are constantly watching them. They discuss [[Tatiana Petrovna]]'s meeting with Thomas giving him his payment for which he will carry out work for [[Winston Churchill]].
+
+In order to finish making contact with the Peaky Blinders at the wedding, Kaledin provides [[Polly Shelby]] with the code name "Constantine". Thomas knows that this code name is the wrong one, meaning that Kaledin could be an infiltrator for the Soviet Embassy, and must therefore be killed by the Peaky Blinders. Thomas gets [[Arthur Shelby Jr.]] to carry out the act.
+
+Kaledin struggles with Arthur to save himself to the point of each man biting the other. Ultimately, Arthur beats him, coming out of the struggle with the gun. Kaledin pleads to a still conflicted Arthur not to shoot him, but eventually Arthur kills him. Kaledin's body is taken outside and burned, and his remains are shoveled and thrown into a grave.
+
+== Quotes ==
+:'''Thomas Shelby''': ''"A woman alone in Birmingham with 10,000 in cash."''
+:'''Anton''': ''"She also has a revolver."''
+:'''Thomas''': ''"Oh, I see."''
+:'''Anton''': ''"I thought you trusted women."''
+:'''Thomas''': ''"I don't trust Birmingham. I'll have her picked up."''
+:'''Anton''': ''"By who?"''
+:'''Thomas''': ''"By the police, pal. This is our city."''
+----
+
+==Appearances==
+{{Series Three Appearances|yes|no|no|no|no|no}}
+== Image Gallery ==
+<gallery navigation="true">
+AntonKaledin2.png
+</gallery>
+[[Category:Series 3 Characters]]
+[[Category:Status: Deceased]]
+[[Category:Enemies]]
+[[Category:Russians]]
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Male]]

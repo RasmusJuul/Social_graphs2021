@@ -1,0 +1,23 @@
+{{Infobox_characters
+|Title = Mario
+|Image = Mario.jpg
+|Series = [[Series 2|2]]
+|First = [[Episode 2.1]]
+|Last = [[Episode 2.5]]
+|Appearances = 3 episodes
+|Place = London, England
+|Allegiance = [[Darby Sabini]]
+|Actor = [[Dorian Lough]]
+}}'''Mario''' is the owner of [[The Eden Club]], a jazz club run by the Italian gang leader [[Darby Sabini]] then attacked by [[Arthur Shelby]] and the [[Peaky Blinders]].
+
+==Gallery==
+<gallery>
+EdenClub5.png|Arthur attacks the previous owner of the club, [[Mario]]. ([[Episode 2.4]])
+</gallery>
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Series 2 Characters]]
+[[Category:Status: Alive]]
+[[Category:Male]]
+[[Category:Enemies]]
+[[Category:Italians]]

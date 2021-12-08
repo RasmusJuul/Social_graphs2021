@@ -1,0 +1,39 @@
+{{Infobox characters
+| Title=King Maine
+| Image=King Maine.jpg
+| Series=[[Series 2|2]], [[Series 4|4]]
+| First=[[Episode 2.1]]
+| Last=
+| Appearances=5 episodes
+| Mentioned=
+| Titles=
+| Aka=
+| Age=
+| Status= [[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=[[Peaky Blinders]]
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Daniel Fearn]]
+}}
+
+'''King Maine''' is a boxing trainer in [[Birmingham, England|Birmingham]] who trains [[Arthur Shelby]] in series 2 then [[Bonnie Gold]] in series 4.
+
+== Image Gallery ==
+<gallery navigation="true">
+Ep4_6_Aberama_Bonnie_King.jpg|[[Aberama Gold]], [[Bonnie Gold]] and King Maine|link=http://www.farfarawaysite.com/section/peaky/gallery4/gallery6/hires/25.jpg
+</gallery>
+
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Status: Alive]]
+[[Category:Series 2 Characters]]
+[[Category:Series 4 Characters]]
+[[Category:Allies]]
+[[Category:Male]]

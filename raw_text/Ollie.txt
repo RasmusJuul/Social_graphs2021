@@ -1,0 +1,47 @@
+{{Infobox characters
+| Title=Ollie
+| Image=Ollie.jpg
+| Series=[[Series 2|2]]
+| First=''[[Episode 2.2]]''
+| Last=''[[Episode 2.6]]''
+| Appearances= 5 episodes
+| Mentioned= 
+| Titles=
+| Aka=
+| Age=
+| Status= [[:Category:Status: Alive|Alive]]
+| Place=Camden Town, London
+| Allegiance=[[Alfie Solomons]]
+| Father= 
+| Mother=
+| Spouse= 
+| Relationship= 
+| Children= 
+| Siblings=
+| Cousins=
+| Lovers= 
+| Actor=[[Adam El Hagar]]
+}}
+'''Ollie ''' is a minor character during the [[Series 2|second series]] of ''[[Peaky Blinders (series)|Peaky Blinders]]''. He is the assistant to [[Alfie Solomons]] and is regularly present during his meetings, both with Sabini and Thomas Shelby
+==Character History==
+=== Series 2 · 1922 ===
+Ollie is introduced in 1922 as the assistant of Alfie Solomons. He records the meetings between Alfie and his business partners and taking notes. He is present in the meeting between Alfie and [[Darby Sabini]], taking notes about the business deal that will bring peace between the Jews and Italians. 
+
+He is further present during a meeting with Alfie and [[Thomas Shelby]], in which Alfie tries to take 100% of Tommy's business. Alfie fears for his life when Tommy reveals that, when he bent down to tie his lace on the way in, he planted a hand grenade in the building that will be detonated if he does not leave the room shortly. After this meeting, he is not seen again. 
+
+== Quotes ==
+:''"He did tie his shoe."''
+----
+==Appearances==
+{{Series Two Appearances|no|yes|yes|yes|yes|yes}}
+== Image Gallery ==
+<gallery orientation="none" spacing="small" navigation="true" hideaddbutton="true">
+File:OllieSolomons.jpg|[[Alfie Solomons]] and [[Ollie]], during a meeting with [[Darby Sabini]]
+</gallery>
+[[Category:Characters]]
+[[Category:Status: Alive]]
+[[Category:Series 2 Characters]]
+[[Category:Secondary Characters]]
+[[Category:Enemies]]
+[[Category:Jewish]]
+[[Category:Male]]

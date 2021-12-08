@@ -1,0 +1,31 @@
+{{Infobox characters
+| Title=Eamonn Duggan
+| Image=Eamonn Duggan.png
+| Series=[[Series 2|2]]
+| First=[[Episode 2.1]]
+| Last=[[Episode 2.1]]
+| Appearances= 1 episodes
+| Mentioned=
+| Titles=
+| Aka=
+| Age=
+| Status=[[:Category:Status: Deceased|Deceased]]
+| Death=Shot by [[Thomas Shelby]]
+| DeathEp=[[Episode 2.1]]
+| Place=
+| Allegiance=
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Rory Gallagher]]
+}}
+
+'''Eamonn Duggan''' is Irishman whom [[Thomas Shelby]] murders for [[Irene O’Donnell]] of [[Irish Republican Army]].
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Series 2 Characters]]
+[[Category:Irish]]
+[[Category:Status: Deceased]]

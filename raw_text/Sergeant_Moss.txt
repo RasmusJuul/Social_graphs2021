@@ -1,0 +1,66 @@
+{{Infobox characters
+| Title=Inspector Sergeant Moss
+| Image=SgtMoss1.png
+| Series=[[Series 1|1]], [[Series 2|2]], [[Series 3|3]], [[Series 4|4]]
+| First=[[Episode 1.1]]
+| Last=[[Episode 4.5]]
+| Appearances=15 episodes 
+| Mentioned=
+| Titles=Sergeant, Inspector
+| Aka=
+| Age=Approx. 50
+| Status=[[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=Birmingham, England
+| Allegiance=Government<br>Birmingham Police<br> [[Peaky Blinders]]<br>[[Inspector Campbell]] (formerly)
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Tony Pitts]]
+}}'''Inspector''' '''Sergeant Moss''' is a police officer from Birmingham. He served his country in France during the War.
+
+==Character History==
+=== Series 1 · 1919===
+Sergeant Moss resents the increasing corruption in his force but slowly builds more and more resentment towards [[Inspector Campbell]] as he disagrees with Campbell’s methods.
+
+=== Series 2 · 1922===
+Despite his earlier opinions, not only is he in the pocket of the Peaky Blinders, but he also represents the head of the local police and is often seen being bribed to drop an investigation or even ensure patrols are not held in certain areas.
+
+=== Series 3 · 1924===
+Moss continues to assist the Peaky Blinders endeavours and performs somewhat illegal dealings for what he believes is the greater good.
+
+Partway though the series, Moss can be seen without his Sergeant's tapes, but displaying a single pip on his epaulette. Although never explicitly mentioned, at this point, he is believed to be the (now defunct) rank of Station Inspector. Irritatingly, this rank is only known to have existed in the Metropolitan Police (1880-1936) which did not include Birmingham. 
+
+In the last episode Moss can be seen with 2 pip on his epaulette.  
+
+=== Series 4 • 1925-1926===
+In the second episode, we see Moss with two pips on his epaulettes. He introduces himself as "Inspector Moss".
+
+In the fifth episode, Moss and his officers break up a duel between Luca Changretta and Tommy Shelby, also making it clear to Tommy that he is no longer on his payroll.
+
+== Quotes ==
+:''"We are regular police officers, sir, not spies. We can only act when a crime has been committed." ''
+:
+:''"I'm a police officer Tommy, I'm a fucking police officer!"''
+----
+
+==Appearances==
+{{Series One Appearances|yes|yes|yes|yes|yes|yes}}
+{{Series Two Appearances|yes|yes|yes|yes|yes|no}}
+{{Series Three Appearances|yes|yes|no|no|no|yes}}
+{{Series Four Appearances|no|yes|no|no|yes|no}}
+== Image Gallery ==
+[[Category:Enemies]]
+[[Category:Allies]]
+[[Category:Series 1 Characters]]
+[[Category:Series 2 Characters]]
+[[Category:Characters]]
+[[Category:Law Enforcement]]
+[[Category:Status: Alive]]
+[[Category:Secondary Characters]]
+[[Category:Series 3 Characters]]
+[[Category:Male]]

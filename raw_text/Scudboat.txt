@@ -1,0 +1,39 @@
+{{Infobox characters
+| Title=Scudboat
+| Image=Scudboat1.png
+| Series=[[Series 1|1]]
+| First=[[Episode 1.1]]
+| Last=[[Episode 2.3]]
+| Appearances=6 fun times
+| Mentioned=
+| Titles=Henchman of the [[Peaky Blinders]]
+| Aka=
+| Age=
+| Status= [[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=[[Birmingham, England]]
+| Allegiance=[[Shelby Family]]<br>[[Peaky Blinders]]
+| Father=
+| Mother=
+| Spouse=
+| Children=
+| Siblings=
+| Lovers=
+| Actor=[[Kevin Metcalfe]]
+}}
+
+== Series 1 ==
+He can be seen counting the bets for the horse [[Major Races|Monaghan Boy]].
+
+== Relationships ==
+
+== Quotes ==
+
+== Image Gallery ==
+[[Category:Characters]]
+[[Category:Secondary Characters]]
+[[Category:Series 1 Characters]]
+[[Category:Members of Peaky Blinders]]
+[[Category:Allies]]
+[[Category:Status: Alive]]
